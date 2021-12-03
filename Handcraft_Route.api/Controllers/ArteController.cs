@@ -16,6 +16,19 @@ using Handcraft_Route.domain.Interfaces;
 using AutoMapper;
 using FluentValidation;
 
+/*Nombre de la escuela: Universidad Tecnologica Metropolitana
+Asignatura: Aplicaciones Web Orientadas a Servicios
+Nombre del Maestro: Chuc Uc Joel Ivan
+Nombre del Proyecto: Handcraft Ruoute
+Integrantes:
+- Carlos M Mezquita Alvarado
+- Fabian F Aguilar Rivero
+- Pedro V Ruvalcaba Novelo
+Cuatrimestre: 4
+Grupo: B
+Parcial: 3
+*/
+
 namespace Handcraft_Route.api.Controllers
 {
     [ApiController]
